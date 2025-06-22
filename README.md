@@ -1,4 +1,4 @@
-# AI Interview Agent
+# RAG based AI Interview Agent
 
 This project is an AI-powered interview agent that generates detailed interview reports. The reports include overall assessment, detailed scores, strengths, areas for improvement, interview notes, and a transcript of the interview conversation.
 
